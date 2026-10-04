@@ -1,0 +1,501 @@
+transactionId,branch,category,product,quantity,unitPrice,date
+T0001,Chennai,Electronics,Power Bank,1,900,2026-09-03
+T0002,Hyderabad,Clothing,Jacket,1,1999,2026-09-30
+T0003,Bangalore,Grocery,Rice,4,60,2026-09-14
+T0004,Hyderabad,Electronics,Headphones,5,1200,2026-09-14
+T0005,Hyderabad,Beauty,Shampoo,2,220,2026-09-21
+T0006,Hyderabad,Beauty,Perfume,4,899,2026-09-02
+T0007,Bangalore,Grocery,Wheat Flour,3,45,2026-09-14
+T0008,Bangalore,Beauty,Shampoo,5,220,2026-09-10
+T0009,Bangalore,Grocery,Wheat Flour,3,45,2026-09-04
+T0010,Hyderabad,Beauty,Shampoo,5,220,2026-09-07
+T0011,Mumbai,Beauty,Face Wash,3,180,2026-09-15
+T0012,Mumbai,Clothing,Jeans,2,1299,2026-09-26
+T0013,Bangalore,Electronics,Headphones,5,1200,2026-09-10
+T0014,Mumbai,Clothing,Jacket,4,1999,2026-09-10
+T0015,Hyderabad,Grocery,Cooking Oil,2,130,2026-09-25
+T0016,Chennai,Electronics,Power Bank,4,900,2026-09-02
+T0017,Hyderabad,Beauty,Perfume,3,899,2026-09-11
+T0018,Chennai,Beauty,Face Wash,5,180,2026-09-26
+T0019,Mumbai,Grocery,Rice,3,60,2026-09-16
+T0020,Hyderabad,Grocery,Sugar,5,42,2026-09-22
+T0021,Mumbai,Clothing,Jacket,4,1999,2026-09-29
+T0022,Chennai,Grocery,Cooking Oil,3,130,2026-09-06
+T0023,Hyderabad,Home,Table Lamp,2,650,2026-09-25
+T0024,Chennai,Electronics,USB Cable,2,250,2026-09-13
+T0025,Mumbai,Home,Table Lamp,2,650,2026-09-15
+T0026,Mumbai,Beauty,Face Wash,2,180,2026-09-27
+T0027,Mumbai,Beauty,Face Wash,4,180,2026-09-12
+T0028,Mumbai,Electronics,Headphones,1,1200,2026-09-06
+T0029,Bangalore,Electronics,USB Cable,2,250,2026-09-01
+T0030,Mumbai,Beauty,Shampoo,3,220,2026-09-10
+T0031,Hyderabad,Electronics,Power Bank,5,900,2026-09-12
+T0032,Chennai,Electronics,USB Cable,5,250,2026-09-20
+T0033,Hyderabad,Home,Cushion,5,350,2026-09-13
+T0034,Mumbai,Home,Water Bottle,1,199,2026-09-16
+T0035,Mumbai,Grocery,Wheat Flour,1,45,2026-09-07
+T0036,Mumbai,Electronics,Headphones,3,1200,2026-09-20
+T0037,Hyderabad,Grocery,Rice,5,60,2026-09-05
+T0038,Hyderabad,Clothing,Jacket,1,1999,2026-09-03
+T0039,Bangalore,Beauty,Face Wash,2,180,2026-09-21
+T0040,Chennai,Clothing,Jacket,3,1999,2026-09-16
+T0041,Hyderabad,Grocery,Cooking Oil,4,130,2026-09-16
+T0042,Mumbai,Clothing,T-Shirt,2,499,2026-09-04
+T0043,Chennai,Clothing,Jeans,2,1299,2026-09-17
+T0044,Hyderabad,Electronics,USB Cable,3,250,2026-09-05
+T0045,Hyderabad,Beauty,Face Wash,1,180,2026-09-23
+T0046,Chennai,Beauty,Face Wash,2,180,2026-09-12
+T0047,Bangalore,Beauty,Perfume,5,899,2026-09-11
+T0048,Bangalore,Beauty,Shampoo,2,220,2026-09-27
+T0049,Mumbai,Electronics,Headphones,5,1200,2026-09-16
+T0050,Chennai,Grocery,Rice,3,60,2026-09-16
+T0051,Chennai,Electronics,USB Cable,5,250,2026-09-12
+T0052,Mumbai,Clothing,Jeans,1,1299,2026-09-08
+T0053,Hyderabad,Electronics,Power Bank,2,900,2026-09-11
+T0054,Bangalore,Home,Cushion,5,350,2026-09-27
+T0055,Hyderabad,Home,Cushion,3,350,2026-09-26
+T0056,Hyderabad,Grocery,Cooking Oil,2,130,2026-09-16
+T0057,Bangalore,Home,Cushion,3,350,2026-09-03
+T0058,Mumbai,Home,Water Bottle,1,199,2026-09-24
+T0059,Bangalore,Electronics,Headphones,1,1200,2026-09-05
+T0060,Mumbai,Electronics,USB Cable,5,250,2026-09-16
+T0061,Chennai,Electronics,USB Cable,5,250,2026-09-05
+T0062,Hyderabad,Grocery,Rice,5,60,2026-09-24
+T0063,Bangalore,Home,Table Lamp,2,650,2026-09-01
+T0064,Chennai,Electronics,Power Bank,5,900,2026-09-08
+T0065,Chennai,Clothing,Jacket,4,1999,2026-09-27
+T0066,Bangalore,Grocery,Sugar,4,42,2026-09-22
+T0067,Mumbai,Beauty,Shampoo,5,220,2026-09-05
+T0068,Hyderabad,Home,Table Lamp,5,650,2026-09-01
+T0069,Bangalore,Electronics,Headphones,4,1200,2026-09-20
+T0070,Hyderabad,Beauty,Shampoo,3,220,2026-09-22
+T0071,Mumbai,Grocery,Rice,2,60,2026-09-07
+T0072,Chennai,Grocery,Rice,5,60,2026-09-15
+T0073,Hyderabad,Grocery,Cooking Oil,3,130,2026-09-20
+T0074,Bangalore,Clothing,Jeans,5,1299,2026-09-18
+T0075,Mumbai,Beauty,Shampoo,5,220,2026-09-29
+T0076,Chennai,Beauty,Shampoo,4,220,2026-09-05
+T0077,Mumbai,Grocery,Cooking Oil,4,130,2026-09-11
+T0078,Hyderabad,Electronics,Power Bank,1,900,2026-09-07
+T0079,Chennai,Grocery,Wheat Flour,3,45,2026-09-05
+T0080,Chennai,Electronics,Power Bank,2,900,2026-09-24
+T0081,Hyderabad,Home,Water Bottle,2,199,2026-09-22
+T0082,Bangalore,Electronics,USB Cable,4,250,2026-09-17
+T0083,Mumbai,Clothing,Jeans,2,1299,2026-09-12
+T0084,Chennai,Grocery,Sugar,1,42,2026-09-11
+T0085,Mumbai,Home,Cushion,1,350,2026-09-13
+T0086,Chennai,Beauty,Perfume,3,899,2026-09-17
+T0087,Hyderabad,Grocery,Wheat Flour,1,45,2026-09-03
+T0088,Chennai,Clothing,T-Shirt,2,499,2026-09-09
+T0089,Bangalore,Home,Cushion,3,350,2026-09-13
+T0090,Bangalore,Beauty,Perfume,5,899,2026-09-16
+T0091,Chennai,Grocery,Sugar,1,42,2026-09-26
+T0092,Bangalore,Home,Table Lamp,3,650,2026-09-01
+T0093,Hyderabad,Clothing,T-Shirt,5,499,2026-09-28
+T0094,Bangalore,Grocery,Sugar,1,42,2026-09-15
+T0095,Hyderabad,Clothing,Jacket,4,1999,2026-09-30
+T0096,Chennai,Beauty,Shampoo,1,220,2026-09-17
+T0097,Bangalore,Grocery,Wheat Flour,3,45,2026-09-02
+T0098,Bangalore,Electronics,Power Bank,3,900,2026-09-17
+T0099,Bangalore,Clothing,Jeans,5,1299,2026-09-22
+T0100,Bangalore,Clothing,Jeans,1,1299,2026-09-09
+T0101,Hyderabad,Grocery,Rice,5,60,2026-09-18
+T0102,Bangalore,Beauty,Face Wash,2,180,2026-09-30
+T0103,Mumbai,Grocery,Cooking Oil,4,130,2026-09-18
+T0104,Mumbai,Beauty,Face Wash,2,180,2026-09-08
+T0105,Chennai,Electronics,USB Cable,2,250,2026-09-13
+T0106,Chennai,Grocery,Wheat Flour,1,45,2026-09-03
+T0107,Chennai,Home,Table Lamp,1,650,2026-09-03
+T0108,Mumbai,Beauty,Perfume,3,899,2026-09-20
+T0109,Bangalore,Clothing,T-Shirt,4,499,2026-09-06
+T0110,Bangalore,Clothing,Jeans,1,1299,2026-09-09
+T0111,Chennai,Clothing,Jacket,3,1999,2026-09-08
+T0112,Hyderabad,Clothing,T-Shirt,3,499,2026-09-06
+T0113,Hyderabad,Clothing,Jeans,1,1299,2026-09-16
+T0114,Chennai,Beauty,Perfume,2,899,2026-09-08
+T0115,Hyderabad,Grocery,Sugar,1,42,2026-09-05
+T0116,Mumbai,Beauty,Shampoo,4,220,2026-09-01
+T0117,Chennai,Clothing,Jacket,2,1999,2026-09-03
+T0118,Bangalore,Beauty,Face Wash,3,180,2026-09-24
+T0119,Mumbai,Electronics,Power Bank,5,900,2026-09-21
+T0120,Bangalore,Grocery,Cooking Oil,5,130,2026-09-05
+T0121,Hyderabad,Beauty,Perfume,2,899,2026-09-03
+T0122,Hyderabad,Grocery,Wheat Flour,3,45,2026-09-04
+T0123,Mumbai,Home,Cushion,1,350,2026-09-21
+T0124,Hyderabad,Beauty,Perfume,2,899,2026-09-16
+T0125,Chennai,Grocery,Cooking Oil,1,130,2026-09-24
+T0126,Hyderabad,Beauty,Shampoo,4,220,2026-09-09
+T0127,Hyderabad,Clothing,T-Shirt,2,499,2026-09-08
+T0128,Mumbai,Home,Water Bottle,1,199,2026-09-16
+T0129,Chennai,Grocery,Wheat Flour,1,45,2026-09-20
+T0130,Bangalore,Clothing,Jeans,3,1299,2026-09-20
+T0131,Bangalore,Grocery,Cooking Oil,1,130,2026-09-16
+T0132,Chennai,Grocery,Wheat Flour,4,45,2026-09-10
+T0133,Chennai,Home,Water Bottle,4,199,2026-09-25
+T0134,Hyderabad,Beauty,Shampoo,3,220,2026-09-03
+T0135,Mumbai,Grocery,Sugar,4,42,2026-09-03
+T0136,Mumbai,Clothing,Jeans,2,1299,2026-09-30
+T0137,Bangalore,Grocery,Rice,2,60,2026-09-24
+T0138,Chennai,Clothing,T-Shirt,5,499,2026-09-27
+T0139,Chennai,Grocery,Sugar,2,42,2026-09-16
+T0140,Mumbai,Home,Table Lamp,2,650,2026-09-01
+T0141,Mumbai,Home,Water Bottle,3,199,2026-09-24
+T0142,Bangalore,Home,Water Bottle,4,199,2026-09-11
+T0143,Hyderabad,Clothing,T-Shirt,3,499,2026-09-25
+T0144,Chennai,Home,Table Lamp,2,650,2026-09-23
+T0145,Hyderabad,Clothing,Jeans,3,1299,2026-09-03
+T0146,Mumbai,Home,Cushion,1,350,2026-09-12
+T0147,Mumbai,Clothing,T-Shirt,3,499,2026-09-04
+T0148,Hyderabad,Clothing,Jacket,2,1999,2026-09-08
+T0149,Chennai,Home,Cushion,3,350,2026-09-07
+T0150,Chennai,Home,Table Lamp,4,650,2026-09-30
+T0151,Bangalore,Grocery,Rice,4,60,2026-09-15
+T0152,Bangalore,Clothing,Jeans,1,1299,2026-09-30
+T0153,Bangalore,Electronics,Power Bank,4,900,2026-09-11
+T0154,Chennai,Clothing,Jeans,3,1299,2026-09-13
+T0155,Bangalore,Clothing,Jeans,5,1299,2026-09-22
+T0156,Mumbai,Grocery,Wheat Flour,2,45,2026-09-03
+T0157,Bangalore,Beauty,Face Wash,5,180,2026-09-08
+T0158,Mumbai,Clothing,Jeans,4,1299,2026-09-05
+T0159,Bangalore,Electronics,Headphones,2,1200,2026-09-11
+T0160,Hyderabad,Clothing,T-Shirt,3,499,2026-09-09
+T0161,Bangalore,Grocery,Cooking Oil,4,130,2026-09-14
+T0162,Bangalore,Home,Water Bottle,3,199,2026-09-25
+T0163,Hyderabad,Home,Water Bottle,5,199,2026-09-12
+T0164,Bangalore,Beauty,Perfume,2,899,2026-09-03
+T0165,Chennai,Electronics,Power Bank,4,900,2026-09-21
+T0166,Mumbai,Home,Water Bottle,1,199,2026-09-05
+T0167,Hyderabad,Home,Cushion,4,350,2026-09-19
+T0168,Mumbai,Grocery,Rice,4,60,2026-09-30
+T0169,Mumbai,Home,Table Lamp,1,650,2026-09-08
+T0170,Bangalore,Electronics,USB Cable,1,250,2026-09-27
+T0171,Mumbai,Grocery,Rice,1,60,2026-09-26
+T0172,Bangalore,Electronics,USB Cable,1,250,2026-09-21
+T0173,Chennai,Electronics,USB Cable,3,250,2026-09-17
+T0174,Mumbai,Grocery,Rice,1,60,2026-09-10
+T0175,Bangalore,Home,Water Bottle,2,199,2026-09-26
+T0176,Hyderabad,Grocery,Sugar,4,42,2026-09-09
+T0177,Chennai,Electronics,Power Bank,5,900,2026-09-08
+T0178,Bangalore,Grocery,Cooking Oil,3,130,2026-09-02
+T0179,Hyderabad,Electronics,Power Bank,4,900,2026-09-03
+T0180,Chennai,Electronics,USB Cable,4,250,2026-09-30
+T0181,Chennai,Electronics,Power Bank,1,900,2026-09-23
+T0182,Chennai,Home,Water Bottle,4,199,2026-09-07
+T0183,Hyderabad,Clothing,Jacket,5,1999,2026-09-03
+T0184,Bangalore,Home,Table Lamp,3,650,2026-09-25
+T0185,Bangalore,Electronics,Power Bank,2,900,2026-09-09
+T0186,Chennai,Grocery,Cooking Oil,5,130,2026-09-06
+T0187,Bangalore,Home,Water Bottle,1,199,2026-09-20
+T0188,Bangalore,Home,Table Lamp,2,650,2026-09-01
+T0189,Bangalore,Home,Table Lamp,1,650,2026-09-06
+T0190,Mumbai,Home,Cushion,3,350,2026-09-24
+T0191,Hyderabad,Grocery,Wheat Flour,3,45,2026-09-07
+T0192,Bangalore,Beauty,Perfume,4,899,2026-09-02
+T0193,Chennai,Home,Water Bottle,3,199,2026-09-15
+T0194,Bangalore,Grocery,Rice,1,60,2026-09-09
+T0195,Hyderabad,Clothing,Jeans,1,1299,2026-09-18
+T0196,Bangalore,Home,Water Bottle,3,199,2026-09-27
+T0197,Mumbai,Grocery,Rice,4,60,2026-09-07
+T0198,Chennai,Beauty,Face Wash,2,180,2026-09-11
+T0199,Chennai,Home,Table Lamp,4,650,2026-09-08
+T0200,Mumbai,Grocery,Cooking Oil,1,130,2026-09-15
+T0201,Hyderabad,Grocery,Sugar,2,42,2026-09-24
+T0202,Hyderabad,Beauty,Face Wash,3,180,2026-09-09
+T0203,Chennai,Beauty,Shampoo,3,220,2026-09-24
+T0204,Chennai,Clothing,Jeans,1,1299,2026-09-24
+T0205,Hyderabad,Grocery,Wheat Flour,1,45,2026-09-16
+T0206,Mumbai,Home,Water Bottle,4,199,2026-09-27
+T0207,Mumbai,Electronics,Power Bank,2,900,2026-09-01
+T0208,Chennai,Electronics,USB Cable,2,250,2026-09-11
+T0209,Chennai,Home,Water Bottle,5,199,2026-09-03
+T0210,Bangalore,Home,Table Lamp,2,650,2026-09-14
+T0211,Hyderabad,Grocery,Cooking Oil,5,130,2026-09-18
+T0212,Chennai,Electronics,Power Bank,1,900,2026-09-03
+T0213,Chennai,Beauty,Shampoo,2,220,2026-09-04
+T0214,Mumbai,Home,Cushion,4,350,2026-09-06
+T0215,Bangalore,Electronics,Power Bank,4,900,2026-09-20
+T0216,Bangalore,Beauty,Perfume,1,899,2026-09-25
+T0217,Chennai,Clothing,Jeans,5,1299,2026-09-09
+T0218,Chennai,Clothing,Jacket,3,1999,2026-09-07
+T0219,Mumbai,Electronics,Headphones,2,1200,2026-09-08
+T0220,Bangalore,Clothing,Jacket,2,1999,2026-09-11
+T0221,Hyderabad,Home,Water Bottle,2,199,2026-09-17
+T0222,Bangalore,Grocery,Cooking Oil,1,130,2026-09-04
+T0223,Hyderabad,Home,Table Lamp,4,650,2026-09-30
+T0224,Chennai,Grocery,Sugar,2,42,2026-09-04
+T0225,Hyderabad,Electronics,USB Cable,5,250,2026-09-07
+T0226,Hyderabad,Clothing,Jacket,2,1999,2026-09-15
+T0227,Chennai,Grocery,Rice,5,60,2026-09-23
+T0228,Chennai,Electronics,Headphones,3,1200,2026-09-11
+T0229,Bangalore,Grocery,Wheat Flour,3,45,2026-09-02
+T0230,Bangalore,Grocery,Sugar,4,42,2026-09-22
+T0231,Chennai,Electronics,USB Cable,3,250,2026-09-03
+T0232,Bangalore,Grocery,Cooking Oil,5,130,2026-09-16
+T0233,Hyderabad,Home,Table Lamp,4,650,2026-09-22
+T0234,Bangalore,Beauty,Shampoo,2,220,2026-09-13
+T0235,Chennai,Home,Water Bottle,3,199,2026-09-14
+T0236,Hyderabad,Clothing,Jacket,5,1999,2026-09-29
+T0237,Chennai,Home,Water Bottle,1,199,2026-09-28
+T0238,Chennai,Electronics,Power Bank,4,900,2026-09-07
+T0239,Hyderabad,Home,Table Lamp,4,650,2026-09-04
+T0240,Hyderabad,Home,Cushion,3,350,2026-09-15
+T0241,Bangalore,Electronics,Headphones,1,1200,2026-09-18
+T0242,Bangalore,Home,Table Lamp,5,650,2026-09-20
+T0243,Chennai,Beauty,Shampoo,2,220,2026-09-12
+T0244,Chennai,Electronics,USB Cable,2,250,2026-09-30
+T0245,Hyderabad,Grocery,Cooking Oil,4,130,2026-09-25
+T0246,Bangalore,Clothing,T-Shirt,1,499,2026-09-30
+T0247,Mumbai,Clothing,T-Shirt,5,499,2026-09-30
+T0248,Mumbai,Grocery,Wheat Flour,2,45,2026-09-20
+T0249,Mumbai,Beauty,Shampoo,4,220,2026-09-06
+T0250,Bangalore,Grocery,Cooking Oil,5,130,2026-09-06
+T0251,Mumbai,Clothing,T-Shirt,2,499,2026-09-08
+T0252,Bangalore,Grocery,Rice,3,60,2026-09-04
+T0253,Mumbai,Beauty,Face Wash,5,180,2026-09-28
+T0254,Chennai,Home,Water Bottle,5,199,2026-09-08
+T0255,Mumbai,Home,Cushion,3,350,2026-09-15
+T0256,Mumbai,Electronics,Headphones,1,1200,2026-09-20
+T0257,Mumbai,Home,Table Lamp,4,650,2026-09-25
+T0258,Mumbai,Electronics,Power Bank,4,900,2026-09-04
+T0259,Hyderabad,Electronics,Power Bank,4,900,2026-09-12
+T0260,Hyderabad,Home,Cushion,5,350,2026-09-22
+T0261,Hyderabad,Grocery,Wheat Flour,1,45,2026-09-30
+T0262,Chennai,Beauty,Shampoo,1,220,2026-09-25
+T0263,Mumbai,Electronics,Headphones,1,1200,2026-09-20
+T0264,Hyderabad,Electronics,Headphones,4,1200,2026-09-10
+T0265,Bangalore,Electronics,Headphones,3,1200,2026-09-20
+T0266,Chennai,Electronics,Power Bank,5,900,2026-09-09
+T0267,Mumbai,Electronics,Power Bank,5,900,2026-09-30
+T0268,Mumbai,Electronics,USB Cable,3,250,2026-09-20
+T0269,Bangalore,Clothing,Jeans,1,1299,2026-09-07
+T0270,Bangalore,Home,Table Lamp,3,650,2026-09-22
+T0271,Chennai,Home,Table Lamp,3,650,2026-09-04
+T0272,Hyderabad,Clothing,Jeans,5,1299,2026-09-17
+T0273,Hyderabad,Clothing,Jacket,4,1999,2026-09-24
+T0274,Chennai,Clothing,Jeans,3,1299,2026-09-19
+T0275,Bangalore,Clothing,Jeans,1,1299,2026-09-15
+T0276,Bangalore,Electronics,USB Cable,1,250,2026-09-10
+T0277,Chennai,Clothing,Jacket,5,1999,2026-09-30
+T0278,Chennai,Grocery,Rice,2,60,2026-09-05
+T0279,Chennai,Beauty,Perfume,4,899,2026-09-14
+T0280,Chennai,Grocery,Wheat Flour,4,45,2026-09-08
+T0281,Hyderabad,Grocery,Rice,1,60,2026-09-19
+T0282,Chennai,Clothing,T-Shirt,5,499,2026-09-12
+T0283,Bangalore,Home,Cushion,3,350,2026-09-19
+T0284,Bangalore,Electronics,Power Bank,5,900,2026-09-27
+T0285,Mumbai,Electronics,Headphones,1,1200,2026-09-30
+T0286,Bangalore,Electronics,Power Bank,1,900,2026-09-03
+T0287,Bangalore,Clothing,Jeans,3,1299,2026-09-01
+T0288,Hyderabad,Beauty,Face Wash,5,180,2026-09-21
+T0289,Mumbai,Beauty,Perfume,4,899,2026-09-08
+T0290,Bangalore,Grocery,Rice,1,60,2026-09-18
+T0291,Hyderabad,Home,Table Lamp,2,650,2026-09-06
+T0292,Hyderabad,Grocery,Rice,5,60,2026-09-18
+T0293,Bangalore,Electronics,Power Bank,2,900,2026-09-17
+T0294,Mumbai,Beauty,Shampoo,5,220,2026-09-10
+T0295,Hyderabad,Clothing,Jacket,1,1999,2026-09-29
+T0296,Mumbai,Beauty,Shampoo,4,220,2026-09-28
+T0297,Mumbai,Home,Table Lamp,4,650,2026-09-06
+T0298,Bangalore,Grocery,Sugar,2,42,2026-09-21
+T0299,Hyderabad,Grocery,Sugar,3,42,2026-09-23
+T0300,Hyderabad,Clothing,Jacket,5,1999,2026-09-22
+T0301,Mumbai,Beauty,Face Wash,3,180,2026-09-21
+T0302,Bangalore,Grocery,Rice,2,60,2026-09-09
+T0303,Bangalore,Electronics,Headphones,3,1200,2026-09-07
+T0304,Mumbai,Clothing,Jacket,2,1999,2026-09-13
+T0305,Mumbai,Home,Cushion,1,350,2026-09-28
+T0306,Hyderabad,Home,Cushion,2,350,2026-09-19
+T0307,Chennai,Electronics,Power Bank,5,900,2026-09-19
+T0308,Hyderabad,Beauty,Shampoo,2,220,2026-09-02
+T0309,Hyderabad,Grocery,Rice,5,60,2026-09-30
+T0310,Bangalore,Clothing,T-Shirt,1,499,2026-09-01
+T0311,Hyderabad,Electronics,USB Cable,1,250,2026-09-23
+T0312,Hyderabad,Grocery,Rice,5,60,2026-09-25
+T0313,Chennai,Electronics,USB Cable,1,250,2026-09-29
+T0314,Mumbai,Grocery,Wheat Flour,2,45,2026-09-07
+T0315,Hyderabad,Grocery,Rice,1,60,2026-09-27
+T0316,Chennai,Home,Table Lamp,2,650,2026-09-04
+T0317,Bangalore,Clothing,Jeans,3,1299,2026-09-14
+T0318,Chennai,Grocery,Sugar,3,42,2026-09-30
+T0319,Chennai,Grocery,Sugar,3,42,2026-09-25
+T0320,Mumbai,Clothing,Jacket,1,1999,2026-09-26
+T0321,Mumbai,Grocery,Cooking Oil,5,130,2026-09-25
+T0322,Hyderabad,Clothing,Jeans,1,1299,2026-09-18
+T0323,Bangalore,Grocery,Sugar,2,42,2026-09-14
+T0324,Hyderabad,Beauty,Shampoo,3,220,2026-09-25
+T0325,Hyderabad,Grocery,Sugar,4,42,2026-09-04
+T0326,Mumbai,Electronics,Power Bank,5,900,2026-09-12
+T0327,Chennai,Beauty,Shampoo,3,220,2026-09-27
+T0328,Bangalore,Electronics,Power Bank,2,900,2026-09-04
+T0329,Hyderabad,Home,Cushion,5,350,2026-09-26
+T0330,Hyderabad,Clothing,Jeans,1,1299,2026-09-13
+T0331,Mumbai,Grocery,Cooking Oil,1,130,2026-09-12
+T0332,Bangalore,Clothing,Jeans,4,1299,2026-09-29
+T0333,Bangalore,Home,Cushion,2,350,2026-09-15
+T0334,Bangalore,Beauty,Perfume,5,899,2026-09-21
+T0335,Hyderabad,Clothing,Jacket,3,1999,2026-09-17
+T0336,Bangalore,Home,Cushion,5,350,2026-09-24
+T0337,Chennai,Electronics,Power Bank,4,900,2026-09-23
+T0338,Chennai,Beauty,Shampoo,2,220,2026-09-11
+T0339,Mumbai,Electronics,USB Cable,2,250,2026-09-09
+T0340,Chennai,Beauty,Shampoo,2,220,2026-09-08
+T0341,Chennai,Beauty,Perfume,3,899,2026-09-06
+T0342,Bangalore,Clothing,T-Shirt,3,499,2026-09-24
+T0343,Hyderabad,Electronics,USB Cable,1,250,2026-09-07
+T0344,Mumbai,Electronics,Headphones,3,1200,2026-09-24
+T0345,Chennai,Home,Water Bottle,2,199,2026-09-04
+T0346,Hyderabad,Clothing,T-Shirt,4,499,2026-09-15
+T0347,Hyderabad,Grocery,Cooking Oil,4,130,2026-09-23
+T0348,Bangalore,Beauty,Perfume,3,899,2026-09-15
+T0349,Hyderabad,Electronics,Power Bank,5,900,2026-09-24
+T0350,Mumbai,Grocery,Wheat Flour,4,45,2026-09-23
+T0351,Mumbai,Electronics,USB Cable,5,250,2026-09-28
+T0352,Bangalore,Electronics,USB Cable,1,250,2026-09-15
+T0353,Mumbai,Clothing,Jeans,1,1299,2026-09-29
+T0354,Mumbai,Electronics,Power Bank,2,900,2026-09-09
+T0355,Mumbai,Home,Water Bottle,1,199,2026-09-20
+T0356,Mumbai,Beauty,Perfume,2,899,2026-09-29
+T0357,Chennai,Grocery,Cooking Oil,4,130,2026-09-30
+T0358,Hyderabad,Grocery,Sugar,5,42,2026-09-07
+T0359,Bangalore,Electronics,USB Cable,3,250,2026-09-04
+T0360,Mumbai,Beauty,Shampoo,4,220,2026-09-17
+T0361,Hyderabad,Clothing,Jacket,3,1999,2026-09-14
+T0362,Mumbai,Electronics,USB Cable,2,250,2026-09-13
+T0363,Hyderabad,Beauty,Face Wash,1,180,2026-09-09
+T0364,Chennai,Home,Water Bottle,1,199,2026-09-01
+T0365,Hyderabad,Home,Water Bottle,3,199,2026-09-19
+T0366,Chennai,Grocery,Wheat Flour,3,45,2026-09-24
+T0367,Mumbai,Beauty,Shampoo,4,220,2026-09-15
+T0368,Bangalore,Electronics,Headphones,1,1200,2026-09-26
+T0369,Bangalore,Home,Cushion,5,350,2026-09-24
+T0370,Bangalore,Electronics,Power Bank,4,900,2026-09-15
+T0371,Chennai,Beauty,Perfume,2,899,2026-09-25
+T0372,Mumbai,Clothing,T-Shirt,3,499,2026-09-23
+T0373,Mumbai,Clothing,Jeans,2,1299,2026-09-16
+T0374,Hyderabad,Clothing,Jeans,2,1299,2026-09-21
+T0375,Chennai,Clothing,Jeans,4,1299,2026-09-14
+T0376,Hyderabad,Clothing,T-Shirt,3,499,2026-09-28
+T0377,Mumbai,Grocery,Rice,5,60,2026-09-29
+T0378,Chennai,Electronics,USB Cable,3,250,2026-09-21
+T0379,Hyderabad,Grocery,Wheat Flour,1,45,2026-09-21
+T0380,Chennai,Clothing,Jacket,1,1999,2026-09-19
+T0381,Bangalore,Electronics,Headphones,4,1200,2026-09-12
+T0382,Bangalore,Electronics,Power Bank,5,900,2026-09-06
+T0383,Hyderabad,Beauty,Perfume,3,899,2026-09-07
+T0384,Mumbai,Electronics,USB Cable,1,250,2026-09-24
+T0385,Mumbai,Grocery,Rice,3,60,2026-09-14
+T0386,Bangalore,Electronics,Power Bank,4,900,2026-09-18
+T0387,Hyderabad,Home,Water Bottle,2,199,2026-09-23
+T0388,Mumbai,Electronics,Power Bank,2,900,2026-09-18
+T0389,Hyderabad,Electronics,Power Bank,4,900,2026-09-23
+T0390,Mumbai,Clothing,Jeans,3,1299,2026-09-14
+T0391,Mumbai,Grocery,Wheat Flour,3,45,2026-09-21
+T0392,Hyderabad,Grocery,Rice,3,60,2026-09-26
+T0393,Hyderabad,Beauty,Face Wash,4,180,2026-09-25
+T0394,Bangalore,Grocery,Wheat Flour,4,45,2026-09-21
+T0395,Bangalore,Clothing,T-Shirt,3,499,2026-09-11
+T0396,Mumbai,Beauty,Perfume,2,899,2026-09-10
+T0397,Mumbai,Clothing,Jeans,3,1299,2026-09-18
+T0398,Hyderabad,Clothing,Jeans,3,1299,2026-09-27
+T0399,Mumbai,Home,Water Bottle,5,199,2026-09-09
+T0400,Chennai,Electronics,USB Cable,4,250,2026-09-26
+T0401,Hyderabad,Clothing,T-Shirt,3,499,2026-09-23
+T0402,Chennai,Electronics,USB Cable,1,250,2026-09-26
+T0403,Hyderabad,Home,Cushion,5,350,2026-09-29
+T0404,Mumbai,Beauty,Perfume,1,899,2026-09-13
+T0405,Chennai,Grocery,Rice,1,60,2026-09-07
+T0406,Mumbai,Beauty,Perfume,1,899,2026-09-26
+T0407,Mumbai,Beauty,Shampoo,5,220,2026-09-29
+T0408,Hyderabad,Electronics,Headphones,4,1200,2026-09-21
+T0409,Bangalore,Grocery,Wheat Flour,1,45,2026-09-14
+T0410,Hyderabad,Grocery,Sugar,2,42,2026-09-26
+T0411,Chennai,Beauty,Perfume,3,899,2026-09-28
+T0412,Chennai,Electronics,Power Bank,1,900,2026-09-11
+T0413,Hyderabad,Home,Cushion,5,350,2026-09-30
+T0414,Hyderabad,Home,Cushion,5,350,2026-09-02
+T0415,Hyderabad,Home,Cushion,4,350,2026-09-15
+T0416,Hyderabad,Grocery,Cooking Oil,5,130,2026-09-19
+T0417,Bangalore,Home,Water Bottle,5,199,2026-09-04
+T0418,Hyderabad,Home,Table Lamp,2,650,2026-09-21
+T0419,Hyderabad,Home,Table Lamp,1,650,2026-09-22
+T0420,Hyderabad,Grocery,Wheat Flour,1,45,2026-09-05
+T0421,Mumbai,Grocery,Sugar,5,42,2026-09-08
+T0422,Mumbai,Electronics,Headphones,3,1200,2026-09-25
+T0423,Bangalore,Grocery,Sugar,5,42,2026-09-23
+T0424,Mumbai,Home,Cushion,3,350,2026-09-30
+T0425,Hyderabad,Grocery,Rice,1,60,2026-09-01
+T0426,Hyderabad,Home,Water Bottle,3,199,2026-09-24
+T0427,Bangalore,Home,Cushion,1,350,2026-09-11
+T0428,Chennai,Beauty,Perfume,4,899,2026-09-16
+T0429,Bangalore,Electronics,Headphones,3,1200,2026-09-21
+T0430,Bangalore,Home,Water Bottle,4,199,2026-09-25
+T0431,Mumbai,Clothing,Jacket,3,1999,2026-09-10
+T0432,Chennai,Grocery,Sugar,5,42,2026-09-24
+T0433,Hyderabad,Electronics,USB Cable,3,250,2026-09-19
+T0434,Mumbai,Electronics,Power Bank,4,900,2026-09-22
+T0435,Mumbai,Beauty,Shampoo,4,220,2026-09-10
+T0436,Hyderabad,Clothing,Jeans,3,1299,2026-09-14
+T0437,Bangalore,Beauty,Shampoo,3,220,2026-09-27
+T0438,Bangalore,Beauty,Shampoo,3,220,2026-09-28
+T0439,Mumbai,Clothing,Jacket,1,1999,2026-09-18
+T0440,Mumbai,Home,Table Lamp,2,650,2026-09-10
+T0441,Hyderabad,Home,Water Bottle,2,199,2026-09-30
+T0442,Chennai,Beauty,Shampoo,4,220,2026-09-15
+T0443,Hyderabad,Beauty,Face Wash,1,180,2026-09-08
+T0444,Mumbai,Beauty,Perfume,3,899,2026-09-29
+T0445,Chennai,Home,Cushion,5,350,2026-09-07
+T0446,Bangalore,Electronics,Headphones,1,1200,2026-09-06
+T0447,Chennai,Clothing,Jacket,5,1999,2026-09-12
+T0448,Mumbai,Beauty,Shampoo,2,220,2026-09-02
+T0449,Mumbai,Clothing,T-Shirt,3,499,2026-09-21
+T0450,Mumbai,Grocery,Wheat Flour,3,45,2026-09-20
+T0451,Hyderabad,Clothing,Jeans,5,1299,2026-09-20
+T0452,Hyderabad,Grocery,Rice,2,60,2026-09-28
+T0453,Mumbai,Beauty,Perfume,2,899,2026-09-09
+T0454,Chennai,Home,Table Lamp,4,650,2026-09-25
+T0455,Bangalore,Clothing,T-Shirt,3,499,2026-09-07
+T0456,Bangalore,Home,Table Lamp,1,650,2026-09-02
+T0457,Hyderabad,Beauty,Face Wash,4,180,2026-09-16
+T0458,Hyderabad,Beauty,Perfume,4,899,2026-09-30
+T0459,Hyderabad,Grocery,Sugar,3,42,2026-09-19
+T0460,Bangalore,Grocery,Cooking Oil,2,130,2026-09-15
+T0461,Bangalore,Clothing,T-Shirt,2,499,2026-09-06
+T0462,Hyderabad,Clothing,Jeans,1,1299,2026-09-29
+T0463,Hyderabad,Grocery,Sugar,5,42,2026-09-23
+T0464,Mumbai,Grocery,Rice,2,60,2026-09-11
+T0465,Hyderabad,Electronics,USB Cable,3,250,2026-09-19
+T0466,Mumbai,Grocery,Cooking Oil,3,130,2026-09-12
+T0467,Chennai,Home,Table Lamp,3,650,2026-09-16
+T0468,Mumbai,Electronics,Power Bank,2,900,2026-09-26
+T0469,Bangalore,Grocery,Cooking Oil,2,130,2026-09-26
+T0470,Hyderabad,Electronics,Headphones,1,1200,2026-09-30
+T0471,Chennai,Electronics,Power Bank,1,900,2026-09-30
+T0472,Mumbai,Grocery,Rice,4,60,2026-09-11
+T0473,Chennai,Electronics,Power Bank,1,900,2026-09-21
+T0474,Chennai,Electronics,Power Bank,2,900,2026-09-24
+T0475,Hyderabad,Electronics,USB Cable,4,250,2026-09-18
+T0476,Bangalore,Home,Table Lamp,3,650,2026-09-14
+T0477,Mumbai,Electronics,Headphones,1,1200,2026-09-09
+T0478,Chennai,Clothing,T-Shirt,3,499,2026-09-16
+T0479,Hyderabad,Clothing,Jeans,4,1299,2026-09-04
+T0480,Bangalore,Beauty,Shampoo,2,220,2026-09-18
+T0481,Mumbai,Clothing,T-Shirt,3,499,2026-09-25
+T0482,Bangalore,Clothing,Jeans,3,1299,2026-09-08
+T0483,Bangalore,Grocery,Cooking Oil,3,130,2026-09-14
+T0484,Bangalore,Grocery,Sugar,2,42,2026-09-21
+T0485,Hyderabad,Home,Cushion,3,350,2026-09-17
+T0486,Bangalore,Home,Table Lamp,5,650,2026-09-10
+T0487,Bangalore,Clothing,Jeans,1,1299,2026-09-30
+T0488,Mumbai,Electronics,Power Bank,5,900,2026-09-06
+T0489,Bangalore,Electronics,USB Cable,2,250,2026-09-23
+T0490,Bangalore,Electronics,USB Cable,1,250,2026-09-27
+T0491,Hyderabad,Beauty,Perfume,4,899,2026-09-25
+T0492,Chennai,Electronics,Headphones,2,1200,2026-09-20
+T0493,Bangalore,Beauty,Face Wash,2,180,2026-09-01
+T0494,Hyderabad,Beauty,Face Wash,1,180,2026-09-17
+T0495,Chennai,Clothing,Jeans,4,1299,2026-09-03
+T0496,Hyderabad,Home,Water Bottle,2,199,2026-09-28
+T0497,Chennai,Electronics,Headphones,5,1200,2026-09-27
+T0498,Chennai,Grocery,Wheat Flour,3,45,2026-09-19
+T0499,Hyderabad,Clothing,Jacket,4,1999,2026-09-17
+T0500,Hyderabad,Grocery,Sugar,2,42,2026-09-27

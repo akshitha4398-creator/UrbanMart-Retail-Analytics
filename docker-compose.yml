@@ -1,0 +1,35 @@
+services:
+
+  namenode:
+    build: .
+    container_name: urbanmart-namenode
+    hostname: namenode
+
+    entrypoint: ["/bin/bash"]
+
+    ports:
+      - "9870:9870"
+      - "8088:8088"
+      - "9000:9000"
+
+    volumes:
+      - ./sales.csv:/opt/urbanmart/sales.csv
+      - ./src:/opt/urbanmart/src
+      - ./pom.xml:/opt/urbanmart/pom.xml
+      - ./target:/opt/urbanmart/target
+      - ./output:/opt/urbanmart/output
+
+    environment:
+      HADOOP_HOME: /opt/hadoop
+      HADOOP_CONF_DIR: /opt/hadoop/etc/hadoop
+      PATH: /opt/hadoop/bin:/opt/hadoop/sbin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+
+    command:
+      - -c
+      - |
+        hdfs namenode -format -force
+        hdfs --daemon start namenode
+        hdfs --daemon start datanode
+        yarn --daemon start resourcemanager
+        yarn --daemon start nodemanager
+        sleep infinity
